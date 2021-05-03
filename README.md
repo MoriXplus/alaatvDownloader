@@ -1,4 +1,6 @@
-<h1 align="center">AlaaTv Downloader</h1>
+<img align="left" src="https://raw.githubusercontent.com/MoriXplus/alaatvDownloader/main/alaatvlogo.png" alt="Made with Angular" title="Angular" hspace="20"/>
+
+<h1 align="left" hspace="20">AlaaTv Downloader</h1>
 <dl>
   <dt>Description:</dt>
   <dd><a href="https://alaatv.com">Alaa</a> does not allow you to download the playlist you want,
