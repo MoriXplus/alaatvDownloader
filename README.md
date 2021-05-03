@@ -1,23 +1,41 @@
-# alaatvDownloader
-Hello .
-https://alaatv.com does not allow you to download the playlist you want,
+<h1 align="center">AlaaTv Downloader</h1>
+<dl>
+  <dt>Description:</dt>
+  <dd><a href="https://alaatv.com">Alaa</a> does not allow you to download the playlist you want,
 you should to open the tab all the time and download your video, this is so hard
 that's why Erfan and i came and wrote this webscrap for you guys.
-hope you use it well :)
+hope you use it well </dd>
 
-Usage:
-    main.py [link] -q [240, 480, 720]
-    main.py "https://alaatv.com/set/963"
-    main.py "https://alaatv.com/set/963" -q 480
-    The default quality is 480.
+
+<dt>Usage:</dt>
+<dd><pre><code>main.py [link] -q [240, 480, 720]</code></pre>
+    <dt>Example:</dt>
+<pre><code>main.py "https://alaatv.com/set/963"</code></pre>
+<pre><code>main.py "https://alaatv.com/set/963" -q 480</code></pre>
+
+</dd>
+
+<br />
+<br />
+<table style="width:100%" align="center">
+  <tr>
+    <th>Command</th>
+    <th>Shortcut</th> 
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>-q</td>
+    <td>-quality</td>
+    <td>Show you how use to downloader</td>
+  </tr>
+  <tr>
+    <td>-help</td>
+    <td>-h</td>
+    <td>Set Download Quality <code>The default quality is 480.</code></td>
+  </tr>
+  <tr>
     
-alaatv.com playlist downloader
-
-positional arguments:
-  url                   enter url of your playlist to download your
-                        videos
-
-optional arguments:
-  -h, --help            show this help message and exit
-  -q QUALITY, --quality QUALITY
-                        enter quality you want to download                     
+    
+  </tr>
+</table>
+<br />
