@@ -7,9 +7,6 @@ import requests
 import argparse
 import os
 
-# TODO: make a seprate download list file (.sh) for each search
-# TODO: don't write already exist download link to file
-# TODO: find name of each download link
 
 def usage():
     return '''
