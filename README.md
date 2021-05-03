@@ -10,12 +10,12 @@ hope you use it well </dd>
 
 
 <dt>Usage:</dt>
-<dd><pre><code>main.py [link] -q [240, 480, 720]</code></pre>
-    <dt>Example:</dt>
-<pre><code>main.py "https://alaatv.com/set/963"</code></pre>
-<pre><code>main.py "https://alaatv.com/set/963" -q 480</code></pre>
+<dd><pre><code>main.py [link] -q [240, 480, 720]</code></pre></dd>
+<dt>Example:</dt>
+<dd><pre><code>main.py "https://alaatv.com/set/963"</code></pre></dd>
+<dd><pre><code>main.py "https://alaatv.com/set/963" -q 480</code></pre></dd>
 
-</dd>
+
 
 <br />
 <br />
