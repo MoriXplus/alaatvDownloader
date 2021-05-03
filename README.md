@@ -26,8 +26,8 @@ hope you use it well </dd>
     <th>Description</th>
   </tr>
   <tr>
-    <td>-q</td>
     <td>-quality</td>
+    <td>-q</td>
     <td>Show you how use to downloader</td>
   </tr>
   <tr>
